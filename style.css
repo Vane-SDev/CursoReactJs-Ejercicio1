@@ -1,0 +1,21 @@
+#estadoSeleccionado {
+    word-spacing: 10px;
+}
+
+.containerForm{
+    display:flex;
+    justify-content: center;
+}
+.formulario {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 10px;
+    width:80%;
+    margin-bottom: 20px;
+    
+}
+
+.formulario h1 {
+    text-align: center;
+    color: #333;
+}
